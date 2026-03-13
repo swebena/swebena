@@ -1,7 +1,12 @@
-## Heads up!
+# 👋 Hi, I’m Ben
+\[IC4\] Senior Software Engineer
 
-This account is primarily for GitHub-specific affairs.
+**This GitHub account mostly an empty placeholder.**  
 
-For my personal projects, visit my [GitLab profile][gitlab_profile].
+For real stuff:
 
-[gitlab_profile]: https://gitlab.com/swebena
+- 🔗 [GitLab][gitlab_profile]:
+  - source-available work.
+- 🔗 [Torre][torre_profile]
+  - Career experience in more detail, up to date.
+  - Contact info.
